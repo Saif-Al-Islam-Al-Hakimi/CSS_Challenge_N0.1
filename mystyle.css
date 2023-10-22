@@ -1,0 +1,30 @@
+*{
+    background-color: whitesmoke;
+    text-align: right;
+    font-size: larger;
+}
+
+p{
+    color: red;
+    text-indent: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    text-transform: capitalize;
+}
+
+.Parent{
+    text-transform: uppercase;
+}
+
+.child > span{
+    color: red;
+}
+
+.child{
+    color: green;
+}
+
+.title{
+    color: blue;
+    text-shadow: 2px 2px 5px green ;
+}
